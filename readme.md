@@ -2,7 +2,9 @@
 
 - This is my second project in which I've used Tailwind CSS. I had little to no knowledge about grid before building this. Shopify has used grid layout in a lot of sections. I'm proud to say that this was my first attempt to learning grid and it turned pretty accurate.
 
+[Netlify](https://shopify-clone-harshcodes.netlify.app/)
 
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
 
 ---
 
